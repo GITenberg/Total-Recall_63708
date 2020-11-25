@@ -1,0 +1,30 @@
+_repo: Total-Recall_63708
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sternig, Larry
+    alias: Sternig, Laurence J.
+    birthdate: 1908
+    deathdate: 1999
+    gutenberg_agent_id: '52542'
+    url: http://www.gutenberg.org/2009/agents/52542
+description: ''
+gutenberg_issued: '2020-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63708'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Scientists -- Fiction'
+- !lcsh 'War stories'
+- !lcsh 'Memory -- Fiction'
+- !lcsh 'Ganymede (Satellite) -- Fiction'
+- GITenberg
+title: Total Recall
+url: http://www.gutenberg.org/ebooks/63708
